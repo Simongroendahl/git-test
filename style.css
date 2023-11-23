@@ -4,8 +4,9 @@
 
 body {
   margin: auto;
+  padding: 20rem;
 }
 
 h1 {
-  color: yellow;
+  color: #333;
 }
