@@ -5,8 +5,9 @@
 body {
   margin: auto;
   padding: 20rem;
+  color: #333;
 }
 
 h1 {
-  color: #333;
+  color: aquamarine;
 }
